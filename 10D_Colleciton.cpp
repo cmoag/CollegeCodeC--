@@ -76,6 +76,12 @@ void decimals(ostream & cout, int n)
 				cout << name << ": " << balance << endl;
 				break;
 			}
+			cout << "Balance < 100.00" << endl;
+			for(BankAccount; balance < 100.00;)
+			{
+				cout << name << ": " << balance << endl;
+				
+			}
 		}
 
 		system("pause");
