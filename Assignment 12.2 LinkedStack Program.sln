@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assignment 12.2 LinkedStack Program", "Assignment 12.2 LinkedStack Program\Assignment 12.2 LinkedStack Program.vcxproj", "{90DF363B-AE7E-4CB1-8556-740F9ABC57FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90DF363B-AE7E-4CB1-8556-740F9ABC57FE}.Debug|x64.ActiveCfg = Debug|x64
+		{90DF363B-AE7E-4CB1-8556-740F9ABC57FE}.Debug|x64.Build.0 = Debug|x64
+		{90DF363B-AE7E-4CB1-8556-740F9ABC57FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{90DF363B-AE7E-4CB1-8556-740F9ABC57FE}.Debug|x86.Build.0 = Debug|Win32
+		{90DF363B-AE7E-4CB1-8556-740F9ABC57FE}.Release|x64.ActiveCfg = Release|x64
+		{90DF363B-AE7E-4CB1-8556-740F9ABC57FE}.Release|x64.Build.0 = Release|x64
+		{90DF363B-AE7E-4CB1-8556-740F9ABC57FE}.Release|x86.ActiveCfg = Release|Win32
+		{90DF363B-AE7E-4CB1-8556-740F9ABC57FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C04A2E94-9B95-4E36-A311-615C0F08029E}
+	EndGlobalSection
+EndGlobal
